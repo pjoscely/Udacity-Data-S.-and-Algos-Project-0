@@ -6,6 +6,6 @@
 
 - Task2.py Runs in 'O(n)', as it builds a dictionary and then finds the largest item
 
-- Task3.py Runs in 'O(nlogn)', as it runs through call data a single time, but uses a Python internal sort function.  
+- Task3.py Runs in `O(log(n))`, as it runs through call data a single time, but uses a Python internal sort function.  
 
 - Task4.py Runs in 'O(nlogn)', as it runs through the text call data a single time, the call data twice, but uses a Python internal sort function. 
